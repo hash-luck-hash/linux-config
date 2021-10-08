@@ -1,8 +1,7 @@
 # linux-config
 
 Linux Distro:
-Ubuntu 20.4 https://releases.ubuntu.com/20.04/
-
+Ubuntu 20.4
 Programming setup
 
 IDE: Atom
