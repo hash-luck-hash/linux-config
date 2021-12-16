@@ -8,7 +8,7 @@ Editor: NeoVim
 Terminal: Alacritty
 shell: zsh
 DE: xfce
-FM: lf
+FM: lf + uerberzug (image preview)
 WM: i3-gaps
 Compiler: g++
 font: monospace
