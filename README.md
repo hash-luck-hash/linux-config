@@ -1,5 +1,5 @@
 # linux-config
-
+```
 Linux Distro:
 Manjaro 20.4
 Programming setup
@@ -11,3 +11,4 @@ DE: xfce
 WM: i3-gaps
 Compiler: g++
 font: monospace
+```
