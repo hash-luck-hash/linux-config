@@ -1,18 +1,13 @@
 # linux-config
 
 Linux Distro:
-Ubuntu 20.4
+Manjaro 20.4
 Programming setup
 
-IDE: Atom
-
+Editor: NeoVim
+Terminal: Alacritty
+shell: zsh
+DE: xfce
+WM: i3-gaps
 Compiler: g++
-
-flags: font: Mono Sans
-
-Terminal:
-
-shell: zsh(config)
-
-tmux
-
+font: monospace
