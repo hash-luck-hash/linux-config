@@ -8,6 +8,7 @@ Editor: NeoVim
 Terminal: Alacritty
 shell: zsh
 DE: xfce
+FM: lf
 WM: i3-gaps
 Compiler: g++
 font: monospace
