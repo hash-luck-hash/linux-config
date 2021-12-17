@@ -7,6 +7,18 @@ fi
 
 # Lukasz's config for the Z Shell
 
+#default editor nvim
+export EDITOR="nvim"
+export VISUAL="nvim"
+
+#ranger
+alias ranger='ranger --choosedir=$HOME/.rangerdir; LASTDIR=`cat $HOME/.rangerdir`; cd "$LASTDIR"'
+
+
+#zsh autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#B1AA87"
+
 
 HYPEN_INSENSITIVE="true"
 CASE_INSENSITIVE="true"
@@ -107,7 +119,7 @@ lfcd () {
         [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
     fi
 }
-bindkey -s '^o' 'lfcd\n'
+bindkey -s '^o' 'ranger\n'
 
 bindkey -s '^a' 'bc -l\n'
 
@@ -154,3 +166,4 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
