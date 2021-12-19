@@ -15,6 +15,7 @@ Editor: NeoVim
 - 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 - 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 - 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
+- 'https://github.com/tribela/vim-transparent' "vim-transparent
 
 Terminal: Alacritty
 
