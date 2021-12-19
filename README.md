@@ -12,6 +12,7 @@ Editor: NeoVim
 - 'https://github.com/vim-airline/vim-airline' " Status bar
 - 'https://github.com/ap/vim-css-color' " CSS Color Preview
 - 'https://github.com/rafi/awesome-vim-colorschemes' " Retro Scheme
+- 'https://github.com/octol/vim-cpp-enhanced-highlight' highlight for c++
 - 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 - 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 - 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
