@@ -29,7 +29,7 @@ FM: ranger
 - uerberzug (image preview)
 
 WM: dwm
-
+ - dwm-config: https://github.com/hash-luck-hash/dwm-config
 Compiler: g++
  - flags: 
 font: monospace
