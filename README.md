@@ -28,9 +28,9 @@ DE: xfce
 FM: ranger
 - uerberzug (image preview)
 
-WM: i3-gaps
+WM: dwm
 
 Compiler: g++
-
+ - flags: 
 font: monospace
 ```
