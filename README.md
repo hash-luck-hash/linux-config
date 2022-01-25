@@ -25,12 +25,18 @@ shell: zsh
 
 DE: xfce
 
-FM: ranger
+FM: ranger + thunar
 - uerberzug (image preview)
 
 WM: dwm
  - dwm-config: https://github.com/hash-luck-hash/dwm-config
+ 
+ Compositor: Compton
+ 
+ pdf viewer: zathura
+ 
 Compiler: g++
  - flags: 
+
 font: monospace
 ```
